@@ -7,13 +7,13 @@ about:
   head: cd6b1b4
   archived: false
   latestVersion: v7.0.4
-  collectedAt: 2026-09-04T19:21:10Z
+  collectedAt: 2026-09-04T21:18:55Z
 timeline:
   created: 2013-05-21
   lastCommit: 2026-08-24
   lastRelease: 2026-08-24
 popularity:
-  star: 43293
+  star: 43292
   watcher: 631
   fork: 2725
   release: 139
@@ -87,6 +87,114 @@ total:
   openIssue: 1011
   commit: 5239
 ---
+path: /home/runner/.x-repo/github.com/Unitech/pm2
+collectedAt: 2026-09-04T21:18:56Z
+loc:
+  JavaScript:
+    code: 41537
+    comments: 5113
+    blanks: 7448
+    files: 582
+  Sh:
+    code: 4526
+    comments: 851
+    blanks: 1706
+    files: 95
+  TypeScript:
+    code: 2147
+    comments: 1030
+    blanks: 223
+    files: 6
+  Json:
+    code: 1792
+    comments: 0
+    blanks: 10
+    files: 94
+  Pan:
+    code: 322
+    comments: 43
+    blanks: 65
+    files: 13
+  Python:
+    code: 145
+    comments: 6
+    blanks: 25
+    files: 7
+  Bash:
+    code: 69
+    comments: 9
+    blanks: 15
+    files: 8
+  Dockerfile:
+    code: 55
+    comments: 13
+    blanks: 15
+    files: 2
+  Yaml:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 7
+  Php:
+    code: 14
+    comments: 0
+    blanks: 2
+    files: 2
+  C:
+    code: 12
+    comments: 2
+    blanks: 0
+    files: 2
+  Tsx:
+    code: 8
+    comments: 0
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  CoffeeScript:
+    code: 4
+    comments: 4
+    blanks: 4
+    files: 4
+  Html:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 3
+  Ruby:
+    code: 4
+    comments: 0
+    blanks: 1
+    files: 1
+  LiveScript:
+    code: 2
+    comments: 2
+    blanks: 2
+    files: 2
+  PowerShell:
+    code: 2
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2497
+    blanks: 856
+    files: 27
+  Text:
+    code: 0
+    comments: 545
+    blanks: 120
+    files: 1
+total:
+  code: 50879
+  comments: 10225
+  blanks: 10532
+  files: 859
 ---
 date: "2026-08-24"
 repo:
