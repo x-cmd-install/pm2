@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.0.4"
   latestRelease: "v7.0.4"
   latestPrerelease: "4.0.0-rc1"
-  collectedAt: 2026-09-10T18:22:53Z
+  collectedAt: 2026-09-10T21:26:25Z
 timeline:
   created: 2013-05-21
   lastCommit: 2026-08-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-24
   lastPrerelease: 2019-10-08
 popularity:
-  star: 43292
+  star: 43293
   watcher: 632
   fork: 2728
   release: 139
@@ -90,7 +90,7 @@ total:
   commit: 5239
 ---
 path: /home/runner/.x-repo/github.com/Unitech/pm2
-collectedAt: 2026-09-10T18:22:56Z
+collectedAt: 2026-09-10T21:26:28Z
 loc:
   JavaScript:
     code: 41537
