@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,291 · **Forks**: 2,726 · **Open issues**: 5,150 · **Contributors**: 285
+- **Stars**: 43,292 · **Forks**: 2,726 · **Open issues**: 5,150 · **Contributors**: 285
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 0 | 9 | 0 | 3 | 5 |
-| last60d | 2026-07-17 | 1 | 0 | 16 | 3 | 6 | 5 |
-| 90d | 2026-06-17 | 3 | 0 | 18 | 6 | 9 | 14 |
-| last180d | 2026-03-19 | 5 | 0 | 23 | 12 | 16 | 62 |
-| 360d | 2025-09-20 | 8 | 3 | 32 | 29 | 32 | 84 |
-| last720d | 2024-09-25 | 15 | 10 | 44 | 61 | 112 | 179 |
+| 30d | 2026-08-17 | 1 | 0 | 9 | 0 | 3 | 5 |
+| last60d | 2026-07-18 | 1 | 0 | 15 | 2 | 5 | 5 |
+| 90d | 2026-06-18 | 3 | 0 | 18 | 6 | 9 | 14 |
+| last180d | 2026-03-20 | 5 | 0 | 23 | 12 | 16 | 62 |
+| 360d | 2025-09-21 | 8 | 3 | 32 | 29 | 32 | 84 |
+| last720d | 2024-09-26 | 15 | 10 | 44 | 61 | 111 | 179 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:50:40Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:48:08Z._
