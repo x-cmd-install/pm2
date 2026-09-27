@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 139 · **Merged PRs**: 558 · **Open PRs**: 89 · **Closed issues**: 4137 · **Open issues**: 1014 · **Commits**: 5239
+- **Releases**: 139 · **Merged PRs**: 558 · **Open PRs**: 90 · **Closed issues**: 4137 · **Open issues**: 1014 · **Commits**: 5239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 9 | 0 | 4 | 0 |
-| last60d | 2026-07-28 | 1 | 0 | 16 | 2 | 4 | 5 |
-| 90d | 2026-06-28 | 3 | 0 | 19 | 4 | 10 | 14 |
-| last180d | 2026-03-30 | 5 | 0 | 23 | 12 | 17 | 58 |
-| 360d | 2025-10-01 | 6 | 2 | 34 | 28 | 31 | 84 |
-| last720d | 2024-10-06 | 15 | 9 | 46 | 61 | 109 | 178 |
+| 30d | 2026-08-28 | 0 | 0 | 10 | 0 | 4 | 0 |
+| last60d | 2026-07-29 | 1 | 0 | 17 | 2 | 4 | 5 |
+| 90d | 2026-06-29 | 3 | 0 | 20 | 4 | 10 | 14 |
+| last180d | 2026-03-31 | 5 | 0 | 24 | 12 | 17 | 58 |
+| 360d | 2025-10-02 | 6 | 2 | 35 | 28 | 31 | 84 |
+| last720d | 2024-10-07 | 15 | 9 | 47 | 61 | 109 | 178 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:14:53Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:36:00Z._
