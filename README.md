@@ -30,9 +30,9 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last60d | 2026-08-06 | 1 | 0 | 16 | 0 | 4 | 5 |
-| 90d | 2026-07-07 | 1 | 0 | 23 | 4 | 8 | 5 |
-| last180d | 2026-04-08 | 5 | 0 | 25 | 12 | 15 | 58 |
-| 360d | 2025-10-10 | 6 | 2 | 38 | 28 | 29 | 84 |
-| last720d | 2024-10-15 | 15 | 9 | 50 | 61 | 106 | 178 |
+| 30d | 2026-09-06 | 0 | 0 | 10 | 0 | 2 | 0 |
+| last60d | 2026-08-07 | 1 | 0 | 16 | 0 | 4 | 5 |
+| 90d | 2026-07-08 | 1 | 0 | 23 | 4 | 8 | 5 |
+| last180d | 2026-04-09 | 5 | 0 | 25 | 12 | 15 | 58 |
+| 360d | 2025-10-11 | 6 | 2 | 38 | 28 | 29 | 84 |
+| last720d | 2024-10-16 | 15 | 9 | 50 | 61 | 106 | 178 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:04:49Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:49:56Z._
