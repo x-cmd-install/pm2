@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,311 · **Forks**: 2,733 · **Open issues**: 5,151 · **Contributors**: 286
+- **Stars**: 43,315 · **Forks**: 2,733 · **Open issues**: 5,151 · **Contributors**: 286
 
 ## Totals (cumulative)
 
@@ -57,12 +57,21 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 9 | 0 | 2 | 14 |
-| last60d | 2026-08-23 | 2 | 1 | 17 | 0 | 6 | 33 |
-| 90d | 2026-07-24 | 2 | 1 | 23 | 2 | 6 | 38 |
-| last180d | 2026-04-25 | 6 | 1 | 28 | 11 | 16 | 91 |
-| 360d | 2025-10-27 | 7 | 3 | 40 | 26 | 28 | 116 |
-| last720d | 2024-11-01 | 16 | 9 | 53 | 60 | 103 | 205 |
+| 30d | 2026-09-23 | 1 | 0 | 9 | 0 | 2 | 14 |
+| last60d | 2026-08-24 | 2 | 1 | 16 | 0 | 6 | 33 |
+| 90d | 2026-07-25 | 2 | 1 | 23 | 2 | 6 | 38 |
+| last180d | 2026-04-26 | 6 | 1 | 28 | 11 | 16 | 91 |
+| 360d | 2025-10-28 | 7 | 3 | 40 | 25 | 28 | 116 |
+| last720d | 2024-11-02 | 16 | 9 | 53 | 60 | 103 | 205 |
+
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/pm2). **6** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `7.1.0` | ✅ latest |
+| Nix unstable | `6.0.14` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:04:13Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:06:46Z._
