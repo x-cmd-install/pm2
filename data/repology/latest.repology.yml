@@ -3,8 +3,8 @@
   srcname: pm2
   binname: pm2
   visiblename: pm2
-  version: 7.1.0
-  origversion: 7.1.0-1
+  version: 7.1.1
+  origversion: 7.1.1-1
   status: newest
   summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
@@ -39,8 +39,8 @@
   srcname: pm2
   binname: pm2
   visiblename: pm2
-  version: 7.1.0
-  origversion: 7.1.0-1
+  version: 7.1.1
+  origversion: 7.1.1-1
   status: newest
   summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
@@ -50,8 +50,8 @@
   srcname: mingw-w64-pm2
   binname: mingw-w64-clang-x86_64-pm2
   visiblename: mingw-w64-clang-x86_64-pm2
-  version: 7.1.0
-  origversion: 7.1.0-1
+  version: 7.1.1
+  origversion: 7.1.1-1
   status: newest
   summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
   licenses:
@@ -60,8 +60,8 @@
   srcname: mingw-w64-pm2
   binname: mingw-w64-clang-aarch64-pm2
   visiblename: mingw-w64-clang-aarch64-pm2
-  version: 7.1.0
-  origversion: 7.1.0-1
+  version: 7.1.1
+  origversion: 7.1.1-1
   status: newest
   summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
   licenses:
@@ -70,8 +70,8 @@
   srcname: mingw-w64-pm2
   binname: mingw-w64-ucrt-x86_64-pm2
   visiblename: mingw-w64-ucrt-x86_64-pm2
-  version: 7.1.0
-  origversion: 7.1.0-1
+  version: 7.1.1
+  origversion: 7.1.1-1
   status: newest
   summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
   licenses:
@@ -172,7 +172,7 @@
   visiblename: pm2
   version: 7.1.0
   origversion: 7.1.0-1
-  status: newest
+  status: outdated
   summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
     - AGPL-3.0-only
