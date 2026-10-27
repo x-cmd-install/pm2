@@ -30,9 +30,9 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,321 · **Forks**: 2,733 · **Open issues**: 5,153 · **Contributors**: 287
+- **Stars**: 43,323 · **Forks**: 2,733 · **Open issues**: 5,154 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 559 · **Open PRs**: 96 · **Closed issues**: 4137 · **Open issues**: 1016 · **Commits**: 5277
+- **Releases**: 141 · **Merged PRs**: 559 · **Open PRs**: 96 · **Closed issues**: 4137 · **Open issues**: 1017 · **Commits**: 5277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 0 | 8 | 0 | 4 | 18 |
-| last60d | 2026-08-27 | 2 | 1 | 17 | 0 | 8 | 27 |
-| 90d | 2026-07-28 | 3 | 1 | 24 | 2 | 8 | 42 |
-| last180d | 2026-04-29 | 7 | 1 | 29 | 11 | 18 | 57 |
-| 360d | 2025-10-31 | 8 | 3 | 41 | 25 | 30 | 120 |
-| last720d | 2024-11-05 | 17 | 9 | 54 | 60 | 103 | 209 |
+| 30d | 2026-09-27 | 2 | 0 | 7 | 0 | 5 | 18 |
+| last60d | 2026-08-28 | 2 | 1 | 17 | 0 | 9 | 27 |
+| 90d | 2026-07-29 | 3 | 1 | 24 | 2 | 9 | 42 |
+| last180d | 2026-04-30 | 7 | 1 | 29 | 11 | 19 | 57 |
+| 360d | 2025-11-01 | 8 | 3 | 40 | 25 | 31 | 120 |
+| last720d | 2024-11-06 | 17 | 9 | 54 | 60 | 104 | 209 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:02:50Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:28:42Z._
