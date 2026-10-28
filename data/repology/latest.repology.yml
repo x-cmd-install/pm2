@@ -22,6 +22,18 @@
   licenses:
     - AGPL-3.0-only
     - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
+  version: 7.0.4
+  origversion: 7.0.4-1
+  status: outdated
+  summary: Production process manager for Node.JS applications with a built-in load balancer
+  licenses:
+    - AGPL-3.0-only
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: pm2
@@ -161,18 +173,6 @@
   version: 7.1.1
   origversion: 7.1.1-1
   status: newest
-  summary: Production process manager for Node.JS applications with a built-in load balancer
-  licenses:
-    - AGPL-3.0-only
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pm2
-  binname: pm2
-  visiblename: pm2
-  version: 7.0.4
-  origversion: 7.0.4-1
-  status: outdated
   summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
     - AGPL-3.0-only
