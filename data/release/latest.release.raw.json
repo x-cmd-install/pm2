@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Unitech/pm2/tarball/v7.1.1",
   "zipball_url": "https://api.github.com/repos/Unitech/pm2/zipball/v7.1.1",
-  "body": "## 7.1.1\n\n### Bug Fixes\n\n- Windows: memory is reported again when pm2 runs as a service (`pidusage` 4.1.0, wmic is used again when available) #6173\n- Linux: overlapping monitoring calls no longer leak a `/proc/<pid>/stat` fd per new pid in the daemon (grew with every restart)\n- `pm2.connect()` right after `pm2.disconnect()` no longer crashes with `Cannot read properties of null (reading 'sock')` #6002\n\n"
+  "body": "## 7.1.1\n\n### Bug Fixes\n\n- Windows: memory is reported again when pm2 runs as a service (`pidusage` 4.1.0, wmic is used again when available) #6173\n- Linux: overlapping monitoring calls no longer leak a `/proc/<pid>/stat` fd per new pid in the daemon (grew with every restart)\n- `pm2.connect()` right after `pm2.disconnect()` no longer crashes with `Cannot read properties of null (reading 'sock')` #6002\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/Unitech/pm2/releases/421798453/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  }
 }
