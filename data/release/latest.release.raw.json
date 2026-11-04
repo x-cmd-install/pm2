@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Unitech/pm2/releases/421798453",
-  "assets_url": "https://api.github.com/repos/Unitech/pm2/releases/421798453/assets",
-  "upload_url": "https://uploads.github.com/repos/Unitech/pm2/releases/421798453/assets{?name,label}",
-  "html_url": "https://github.com/Unitech/pm2/releases/tag/v7.1.1",
-  "id": 421798453,
+  "url": "https://api.github.com/repos/Unitech/pm2/releases/432658493",
+  "assets_url": "https://api.github.com/repos/Unitech/pm2/releases/432658493/assets",
+  "upload_url": "https://uploads.github.com/repos/Unitech/pm2/releases/432658493/assets{?name,label}",
+  "html_url": "https://github.com/Unitech/pm2/releases/tag/v7.1.2",
+  "id": 432658493,
   "author": {
     "login": "Unitech",
     "id": 757747,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAJtxSs4ZJCI1",
-  "tag_name": "v7.1.1",
+  "node_id": "RE_kwDOAJtxSs4Zydg9",
+  "tag_name": "v7.1.2",
   "target_commitish": "master",
-  "name": "v7.1.1",
+  "name": "v7.1.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-23T10:31:31Z",
-  "updated_at": "2026-10-23T12:09:24Z",
-  "published_at": "2026-10-23T12:09:09Z",
+  "created_at": "2026-11-03T11:12:24Z",
+  "updated_at": "2026-11-03T12:20:22Z",
+  "published_at": "2026-11-03T12:20:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Unitech/pm2/tarball/v7.1.1",
-  "zipball_url": "https://api.github.com/repos/Unitech/pm2/zipball/v7.1.1",
-  "body": "## 7.1.1\n\n### Bug Fixes\n\n- Windows: memory is reported again when pm2 runs as a service (`pidusage` 4.1.0, wmic is used again when available) #6173\n- Linux: overlapping monitoring calls no longer leak a `/proc/<pid>/stat` fd per new pid in the daemon (grew with every restart)\n- `pm2.connect()` right after `pm2.disconnect()` no longer crashes with `Cannot read properties of null (reading 'sock')` #6002\n\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/Unitech/pm2/releases/421798453/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 1
-  }
+  "tarball_url": "https://api.github.com/repos/Unitech/pm2/tarball/v7.1.2",
+  "zipball_url": "https://api.github.com/repos/Unitech/pm2/zipball/v7.1.2",
+  "body": "## 7.1.2\n\n### Bug Fixes\n\n- `pm2 update` under a `pm2 startup` systemd unit no longer gets its new daemon and apps killed by `ExecStop=pm2 kill` (systemd >= 232) #5000\n- `filter_env: true` works again (ignored since 4.4.1): apps only inherit PATH, HOME, USER, locales and a few OS variables besides their `env` #6176\n- `filter_env` also applies to `--update-env` restart/reload and to cluster workers; `--filter-env` alone means `true` #6176\n- `pm2.disconnect()` no longer throws nor calls back twice when a socket takes more than 200ms to close\n- `pm2 start --container` uses `keymetrics/pm2:<node>-trixie` (was the 2018 `latest` image, and `--node-version` pointed to tags that do not exist)\n\n### Breaking change\n\n- `filter_env: true` apps no longer inherit other shell variables (NODE_ENV, NODE_OPTIONS, HTTP_PROXY...): declare them in `env` #6176\n- An app keeps the shell env it already received when the filter comes later (started before 7.1.2 or without `filter_env`, dump.pm2 included): `pm2 delete` it and start it again #6176\n\n"
 }
