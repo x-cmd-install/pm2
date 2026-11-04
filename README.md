@@ -14,14 +14,14 @@ x install pm2
 
 ## Code insight
 
-Total: **66,579** lines of code across **838** files in the top 5 languages.
+Total: **67,536** lines of code across **845** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 57,207 | 8,872 | 10,135 | 626 |
-| Sh | 4,719 | 869 | 1,759 | 98 |
-| TypeScript | 2,147 | 1,030 | 223 | 6 |
-| Json | 1,807 | 0 | 10 | 95 |
+| JavaScript | 58,045 | 9,021 | 10,269 | 628 |
+| Sh | 4,803 | 879 | 1,773 | 99 |
+| TypeScript | 2,147 | 1,032 | 223 | 6 |
+| Json | 1,842 | 0 | 10 | 99 |
 | Pan | 322 | 43 | 65 | 13 |
 
 ## OpenSSF Scorecard
@@ -30,7 +30,7 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.1.1` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Latest**: `v7.1.2` (2026-11-03)
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 43,330 · **Forks**: 2,730 · **Open issues**: 5,155 · **Contributors**: 287
+- **Stars**: 43,327 · **Forks**: 2,731 · **Open issues**: 5,155 · **Contributors**: 288
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 559 · **Open PRs**: 97 · **Closed issues**: 4138 · **Open issues**: 1017 · **Commits**: 5277
+- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 95 · **Closed issues**: 4167 · **Open issues**: 988 · **Commits**: 5288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 0 | 6 | 1 | 5 | 18 |
-| last60d | 2026-09-04 | 2 | 1 | 16 | 1 | 8 | 19 |
-| 90d | 2026-08-05 | 3 | 1 | 21 | 2 | 9 | 42 |
-| last180d | 2026-05-07 | 5 | 1 | 30 | 9 | 19 | 57 |
-| 360d | 2025-11-08 | 8 | 3 | 41 | 26 | 30 | 119 |
-| last720d | 2024-11-13 | 17 | 8 | 55 | 61 | 102 | 209 |
+| 30d | 2026-10-05 | 3 | 0 | 4 | 4 | 2 | 29 |
+| last60d | 2026-09-05 | 3 | 1 | 13 | 4 | 4 | 30 |
+| 90d | 2026-08-06 | 4 | 1 | 19 | 4 | 6 | 53 |
+| last180d | 2026-05-08 | 6 | 1 | 28 | 15 | 13 | 68 |
+| 360d | 2025-11-09 | 9 | 3 | 39 | 32 | 24 | 130 |
+| last720d | 2024-11-14 | 18 | 8 | 53 | 70 | 92 | 206 |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/pm2). **6** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/pm2). **5** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `7.1.1` | ✅ latest |
+| Arch | `7.1.2` | ✅ latest |
 | Nix unstable | `6.0.14` | ⚠️ outdated |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:29:19Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:51:46Z._
