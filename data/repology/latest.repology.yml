@@ -1,13 +1,15 @@
-- repo: msys2_clangarm64
-  srcname: mingw-w64-pm2
-  binname: mingw-w64-clang-aarch64-pm2
-  visiblename: mingw-w64-clang-aarch64-pm2
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
   version: 7.1.2
   origversion: 7.1.2-1
   status: newest
-  summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
+  summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
-    - spdx:AGPL-3.0-or-later
+    - AGPL-3.0-only
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: pm2
@@ -37,18 +39,6 @@
   srcname: pm2
   binname: pm2
   visiblename: pm2
-  version: 7.1.1
-  origversion: 7.1.1-1
-  status: outdated
-  summary: Production process manager for Node.JS applications with a built-in load balancer
-  licenses:
-    - AGPL-3.0-only
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: pm2
-  binname: pm2
-  visiblename: pm2
   version: 7.1.2
   origversion: 7.1.2-1
   status: newest
@@ -60,6 +50,16 @@
   srcname: mingw-w64-pm2
   binname: mingw-w64-clang-x86_64-pm2
   visiblename: mingw-w64-clang-x86_64-pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
+  licenses:
+    - spdx:AGPL-3.0-or-later
+- repo: msys2_clangarm64
+  srcname: mingw-w64-pm2
+  binname: mingw-w64-clang-aarch64-pm2
+  visiblename: mingw-w64-clang-aarch64-pm2
   version: 7.1.2
   origversion: 7.1.2-1
   status: newest
