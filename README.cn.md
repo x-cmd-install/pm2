@@ -30,8 +30,8 @@ x install pm2
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install pm2
 
 ## 流行度
 
-- **Star**: 43,323 · **Fork**: 2,730 · **开放 issue**: 5,155 · **贡献者**: 288
+- **Star**: 43,327 · **Fork**: 2,729 · **开放 issue**: 5,156 · **贡献者**: 288
 
 ## 累计统计
 
-- **发布数**: 142 · **已合并 PR**: 559 · **开放 PR**: 96 · **已关闭 issue**: 4167 · **开放 issue**: 988 · **提交数**: 5288
+- **发布数**: 142 · **已合并 PR**: 559 · **开放 PR**: 95 · **已关闭 issue**: 4167 · **开放 issue**: 989 · **提交数**: 5288
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 0 | 3 | 4 | 2 | 29 |
-| last60d | 2026-09-10 | 3 | 1 | 10 | 4 | 3 | 30 |
-| 90d | 2026-08-11 | 4 | 1 | 19 | 4 | 6 | 53 |
-| last180d | 2026-05-13 | 6 | 1 | 28 | 15 | 13 | 68 |
-| 360d | 2025-11-14 | 9 | 2 | 40 | 31 | 24 | 127 |
-| last720d | 2024-11-19 | 18 | 8 | 54 | 70 | 90 | 206 |
+| 30d | 2026-10-11 | 3 | 0 | 3 | 3 | 3 | 29 |
+| last60d | 2026-09-11 | 3 | 1 | 10 | 4 | 4 | 30 |
+| 90d | 2026-08-12 | 4 | 1 | 18 | 4 | 7 | 53 |
+| last180d | 2026-05-14 | 6 | 1 | 27 | 15 | 14 | 68 |
+| 360d | 2025-11-15 | 9 | 2 | 39 | 31 | 25 | 127 |
+| last720d | 2024-11-20 | 18 | 8 | 53 | 70 | 90 | 206 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ pm2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T08:05:09Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T09:04:42Z._

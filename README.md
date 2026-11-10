@@ -30,8 +30,8 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,323 · **Forks**: 2,730 · **Open issues**: 5,155 · **Contributors**: 288
+- **Stars**: 43,327 · **Forks**: 2,729 · **Open issues**: 5,156 · **Contributors**: 288
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 96 · **Closed issues**: 4167 · **Open issues**: 988 · **Commits**: 5288
+- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 95 · **Closed issues**: 4167 · **Open issues**: 989 · **Commits**: 5288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 0 | 3 | 4 | 2 | 29 |
-| last60d | 2026-09-10 | 3 | 1 | 10 | 4 | 3 | 30 |
-| 90d | 2026-08-11 | 4 | 1 | 19 | 4 | 6 | 53 |
-| last180d | 2026-05-13 | 6 | 1 | 28 | 15 | 13 | 68 |
-| 360d | 2025-11-14 | 9 | 2 | 40 | 31 | 24 | 127 |
-| last720d | 2024-11-19 | 18 | 8 | 54 | 70 | 90 | 206 |
+| 30d | 2026-10-11 | 3 | 0 | 3 | 3 | 3 | 29 |
+| last60d | 2026-09-11 | 3 | 1 | 10 | 4 | 4 | 30 |
+| 90d | 2026-08-12 | 4 | 1 | 18 | 4 | 7 | 53 |
+| last180d | 2026-05-14 | 6 | 1 | 27 | 15 | 14 | 68 |
+| 360d | 2025-11-15 | 9 | 2 | 39 | 31 | 25 | 127 |
+| last720d | 2024-11-20 | 18 | 8 | 53 | 70 | 90 | 206 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T08:05:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:04:41Z._
