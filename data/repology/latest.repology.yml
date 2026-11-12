@@ -1,15 +1,14 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: nix_stable_25_11
   srcname: pm2
-  binname: pm2
   visiblename: pm2
-  version: 7.1.2
-  origversion: 7.1.2-1
-  status: newest
-  summary: Production process manager for Node.JS applications with a built-in load balancer
+  version: 6.0.13
+  origversion: null
+  status: outdated
+  summary: Node.js production process manager with a built-in load balancer
+  maintainers:
+    - github@jeremyschlatter.com
   licenses:
     - AGPL-3.0-only
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: pm2
@@ -35,6 +34,18 @@
     - AGPL-3.0-only
     - Apache-2.0
 - repo: manjaro_testing
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Production process manager for Node.JS applications with a built-in load balancer
+  licenses:
+    - AGPL-3.0-only
+    - Apache-2.0
+- repo: manjaro_unstable
   subrepo: extra
   srcname: pm2
   binname: pm2
@@ -102,17 +113,6 @@
   srcname: pm2
   visiblename: pm2
   version: 5.4.2
-  origversion: null
-  status: outdated
-  summary: Node.js production process manager with a built-in load balancer
-  maintainers:
-    - github@jeremyschlatter.com
-  licenses:
-    - AGPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: pm2
-  visiblename: pm2
-  version: 6.0.13
   origversion: null
   status: outdated
   summary: Node.js production process manager with a built-in load balancer
