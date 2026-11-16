@@ -1,15 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: pm2
-  binname: pm2
-  visiblename: pm2
-  version: 7.1.2
-  origversion: 7.1.2-1
-  status: newest
-  summary: Production process manager for Node.JS applications with a built-in load balancer
-  licenses:
-    - AGPL-3.0-only
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: pm2
@@ -166,3 +154,15 @@
     - aisha@openbsd.org
   categories:
     - www
+- repo: parabola
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Production process manager for Node.JS applications with a built-in load balancer
+  licenses:
+    - AGPL-3.0-only
+    - Apache-2.0
