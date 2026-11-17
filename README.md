@@ -30,8 +30,8 @@ Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,335 · **Forks**: 2,731 · **Open issues**: 5,157 · **Contributors**: 288
+- **Stars**: 43,336 · **Forks**: 2,733 · **Open issues**: 5,157 · **Contributors**: 288
 
 ## Totals (cumulative)
 
@@ -57,21 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 0 | 4 | 3 | 4 | 12 |
-| last60d | 2026-09-17 | 3 | 0 | 12 | 4 | 5 | 29 |
-| 90d | 2026-08-18 | 4 | 1 | 19 | 4 | 8 | 53 |
-| last180d | 2026-05-20 | 6 | 1 | 29 | 15 | 13 | 62 |
-| 360d | 2025-11-21 | 9 | 2 | 41 | 28 | 25 | 120 |
-| last720d | 2024-11-26 | 18 | 8 | 55 | 69 | 90 | 206 |
-
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/pm2). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `7.1.2` | ✅ latest |
-| Nix unstable | `6.0.14` | ⚠️ outdated |
+| 30d | 2026-10-18 | 3 | 0 | 4 | 3 | 4 | 12 |
+| last60d | 2026-09-18 | 3 | 0 | 12 | 4 | 5 | 29 |
+| 90d | 2026-08-19 | 4 | 1 | 19 | 4 | 8 | 53 |
+| last180d | 2026-05-21 | 6 | 1 | 29 | 13 | 13 | 62 |
+| 360d | 2025-11-22 | 9 | 2 | 40 | 28 | 25 | 120 |
+| last720d | 2024-11-27 | 18 | 8 | 55 | 69 | 89 | 206 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:53:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:02Z._
