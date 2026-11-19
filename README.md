@@ -47,22 +47,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,336 · **Forks**: 2,733 · **Open issues**: 5,157 · **Contributors**: 288
+- **Stars**: 43,340 · **Forks**: 2,732 · **Open issues**: 5,157 · **Contributors**: 288
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 97 · **Closed issues**: 4167 · **Open issues**: 990 · **Commits**: 5288
+- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 96 · **Closed issues**: 4168 · **Open issues**: 989 · **Commits**: 5288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 0 | 4 | 3 | 4 | 12 |
-| last60d | 2026-09-18 | 3 | 0 | 12 | 4 | 5 | 29 |
-| 90d | 2026-08-19 | 4 | 1 | 19 | 4 | 8 | 53 |
-| last180d | 2026-05-21 | 6 | 1 | 29 | 13 | 13 | 62 |
-| 360d | 2025-11-22 | 9 | 2 | 40 | 28 | 25 | 120 |
-| last720d | 2024-11-27 | 18 | 8 | 55 | 69 | 89 | 206 |
+| 30d | 2026-10-20 | 3 | 0 | 3 | 3 | 3 | 12 |
+| last60d | 2026-09-20 | 3 | 0 | 11 | 5 | 4 | 29 |
+| 90d | 2026-08-21 | 4 | 1 | 18 | 5 | 7 | 53 |
+| last180d | 2026-05-23 | 6 | 1 | 28 | 14 | 12 | 62 |
+| 360d | 2025-11-24 | 9 | 2 | 39 | 29 | 24 | 120 |
+| last720d | 2024-11-29 | 18 | 8 | 54 | 70 | 88 | 206 |
+
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/pm2). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `7.1.2` | ✅ latest |
+| Nix unstable | `6.0.14` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:02Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:30:15Z._
