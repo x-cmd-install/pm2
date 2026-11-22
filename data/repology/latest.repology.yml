@@ -1,36 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: pm2
-  binname: pm2
-  visiblename: pm2
-  version: 7.1.2
-  origversion: 7.1.2-1
-  status: newest
-  summary: Production process manager for Node.JS applications with a built-in load balancer
-  licenses:
-    - AGPL-3.0-only
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: pm2
-  visiblename: pm2
-  version: 5.3.1
-  origversion: null
-  status: outdated
-  summary: Node.js production process manager with a built-in load balancer
-  maintainers:
-    - github@jeremyschlatter.com
-  licenses:
-    - AGPL-3.0-only
-- repo: msys2_ucrt64
-  srcname: mingw-w64-pm2
-  binname: mingw-w64-ucrt-x86_64-pm2
-  visiblename: mingw-w64-ucrt-x86_64-pm2
-  version: 7.1.2
-  origversion: 7.1.2-1
-  status: newest
-  summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
-  licenses:
-    - spdx:AGPL-3.0-or-later
 - repo: arch
   subrepo: extra
   srcname: pm2
@@ -99,6 +66,27 @@
   summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
   licenses:
     - spdx:AGPL-3.0-or-later
+- repo: msys2_ucrt64
+  srcname: mingw-w64-pm2
+  binname: mingw-w64-ucrt-x86_64-pm2
+  visiblename: mingw-w64-ucrt-x86_64-pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Node.js Production Process Manager with a built-in Load Balancer (mingw-w64)
+  licenses:
+    - spdx:AGPL-3.0-or-later
+- repo: nix_stable_24_05
+  srcname: pm2
+  visiblename: pm2
+  version: 5.3.1
+  origversion: null
+  status: outdated
+  summary: Node.js production process manager with a built-in load balancer
+  maintainers:
+    - github@jeremyschlatter.com
+  licenses:
+    - AGPL-3.0-only
 - repo: nix_stable_24_11
   srcname: pm2
   visiblename: pm2
@@ -166,3 +154,15 @@
     - aisha@openbsd.org
   categories:
     - www
+- repo: parabola
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Production process manager for Node.JS applications with a built-in load balancer
+  licenses:
+    - AGPL-3.0-only
+    - Apache-2.0
