@@ -1,3 +1,27 @@
+- repo: openbsd
+  srcname: www/pm2
+  binname: pm2
+  visiblename: www/pm2
+  version: 5.4.2
+  origversion: 5.4.2v0
+  status: outdated
+  summary: production process manager with a built-in load balancer
+  maintainers:
+    - aisha@openbsd.org
+  categories:
+    - www
+- repo: parabola
+  subrepo: extra
+  srcname: pm2
+  binname: pm2
+  visiblename: pm2
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
+  summary: Production process manager for Node.JS applications with a built-in load balancer
+  licenses:
+    - AGPL-3.0-only
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: pm2
@@ -15,9 +39,9 @@
   srcname: pm2
   binname: pm2
   visiblename: pm2
-  version: 7.0.4
-  origversion: 7.0.4-1
-  status: outdated
+  version: 7.1.2
+  origversion: 7.1.2-1
+  status: newest
   summary: Production process manager for Node.JS applications with a built-in load balancer
   licenses:
     - AGPL-3.0-only
@@ -142,27 +166,3 @@
     - github@jeremyschlatter.com
   licenses:
     - AGPL-3.0-only
-- repo: openbsd
-  srcname: www/pm2
-  binname: pm2
-  visiblename: www/pm2
-  version: 5.4.2
-  origversion: 5.4.2v0
-  status: outdated
-  summary: production process manager with a built-in load balancer
-  maintainers:
-    - aisha@openbsd.org
-  categories:
-    - www
-- repo: parabola
-  subrepo: extra
-  srcname: pm2
-  binname: pm2
-  visiblename: pm2
-  version: 7.1.2
-  origversion: 7.1.2-1
-  status: newest
-  summary: Production process manager for Node.JS applications with a built-in load balancer
-  licenses:
-    - AGPL-3.0-only
-    - Apache-2.0
