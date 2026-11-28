@@ -47,31 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,345 · **Forks**: 2,734 · **Open issues**: 5,157 · **Contributors**: 288
+- **Stars**: 43,344 · **Forks**: 2,734 · **Open issues**: 5,157 · **Contributors**: 288
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 93 · **Closed issues**: 4168 · **Open issues**: 989 · **Commits**: 5288
+- **Releases**: 142 · **Merged PRs**: 559 · **Open PRs**: 94 · **Closed issues**: 4168 · **Open issues**: 989 · **Commits**: 5288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 0 | 1 | 0 | 2 | 2 |
-| last60d | 2026-09-28 | 3 | 0 | 6 | 5 | 3 | 29 |
-| 90d | 2026-08-29 | 3 | 1 | 15 | 5 | 7 | 38 |
-| last180d | 2026-05-31 | 6 | 1 | 26 | 14 | 12 | 62 |
-| 360d | 2025-12-02 | 8 | 1 | 37 | 29 | 24 | 120 |
-| last720d | 2024-12-07 | 18 | 8 | 50 | 68 | 88 | 206 |
-
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/pm2). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `7.1.2` | ✅ latest |
-| Nix unstable | `6.0.14` | ⚠️ outdated |
+| 30d | 2026-10-29 | 1 | 0 | 1 | 0 | 2 | 2 |
+| last60d | 2026-09-29 | 3 | 0 | 6 | 5 | 3 | 29 |
+| 90d | 2026-08-30 | 3 | 1 | 15 | 5 | 7 | 38 |
+| last180d | 2026-06-01 | 6 | 1 | 26 | 14 | 11 | 62 |
+| 360d | 2025-12-03 | 8 | 1 | 35 | 29 | 24 | 120 |
+| last720d | 2024-12-08 | 18 | 8 | 50 | 68 | 88 | 206 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for pm2 lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:40:12Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:09:02Z._
